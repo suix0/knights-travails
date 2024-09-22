@@ -82,4 +82,5 @@ function knightsTravails(start, finish) {
     console.log(path);
   })
 }
-knightsTravails([3, 3], [0, 0])
+
+knightsTravails([3, 6], [7, 7])
